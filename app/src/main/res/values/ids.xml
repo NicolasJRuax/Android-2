@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btn_add_subject" type="id" />
+    <item name="btn_view_schedule" type="id" />
+    <item name="btn_current_class" type="id" />
+</resources>
